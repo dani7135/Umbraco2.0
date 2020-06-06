@@ -1,10 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <UserSecretsId>aspnet-Umbraco2._0-3DFF3532-943A-44F4-9ACA-25B5A5F67F7C</UserSecretsId>
     <RootNamespace>Umbraco2._0</RootNamespace>
-  </PropertyGroup>
+  </PropertyGroup> 
 
 
   <ItemGroup>
